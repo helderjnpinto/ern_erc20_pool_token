@@ -1,0 +1,29 @@
+{
+  "name": "ern_erc20_pool_token",
+  "version": "1.0.0",
+  "description": "Exchange native token to symbolic pool token and get rewards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helderjnpinto/ern_erc20_pool_token.git"
+  },
+  "keywords": [
+    "pool",
+    "solidity",
+    "ERC20",
+    "ern",
+    "exchange"
+  ],
+  "author": "Helder Pinto",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/helderjnpinto/ern_erc20_pool_token/issues"
+  },
+  "homepage": "https://github.com/helderjnpinto/ern_erc20_pool_token#readme",
+  "devDependencies": {
+    "truffle": "^5.1.66"
+  }
+}
