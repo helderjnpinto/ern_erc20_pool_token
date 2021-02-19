@@ -25,5 +25,9 @@
   "homepage": "https://github.com/helderjnpinto/ern_erc20_pool_token#readme",
   "devDependencies": {
     "truffle": "^5.1.66"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "openzeppelin-solidity": "^3.4.0"
   }
 }
